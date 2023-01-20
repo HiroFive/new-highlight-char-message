@@ -1,0 +1,1 @@
+export const BASE_Bages_URL = "https://badges.twitch.tv/v1/badges"
